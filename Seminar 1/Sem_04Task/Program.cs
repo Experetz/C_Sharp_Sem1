@@ -6,5 +6,5 @@ int Bb = -Aa;
 while (Bb <= Aa)
 {
  Console.WriteLine(Bb);
- Bb + 1;
+ Bb = Bb + 1;
 }
